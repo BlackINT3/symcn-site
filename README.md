@@ -1,4 +1,4 @@
-# SYMCN
+# ❄️SYMCN
 Home: http://msdl.blackint3.com:88/
 
 Windows符号服务器镜像节点，用于国内加速。
